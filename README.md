@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luthfiakbari
 - 👀 I’m interested in graphic design
 - 🌱 I’m currently learning visual communication design
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on design
 - 📫 How to reach me ...
 
 <!---
